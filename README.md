@@ -17,6 +17,16 @@
     </tr>
 </table>
 
+## 效果图和用户手册图解
+*打码涉及个人信息*
+### 登录界面
+![login.png](https://github.com/TeddyBear-9/QBomb/blob/master/png/login.png)
+### 游戏大厅界面
+![gameHall.png](https://raw.githubusercontent.com/TeddyBear-9/QBomb/master/png/gameHall.png)
+![gameHall_2.png](https://raw.githubusercontent.com/TeddyBear-9/QBomb/master/png/gameHall_2.png)
+### 游戏界面
+![gameStart.png](https://raw.githubusercontent.com/TeddyBear-9/QBomb/master/png/gameStart.png)
+![gameEnd.png](https://raw.githubusercontent.com/TeddyBear-9/QBomb/master/png/gameEnd.png)
 ## 系统结构设计
 ![系统设计.png](https://raw.githubusercontent.com/TeddyBear-9/QBomb/master/png/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.png)
 ## 数据库设计
@@ -29,4 +39,3 @@
 默认数据库：bomb
 
 默认表名：login
-## 效果图和用户手册图解
