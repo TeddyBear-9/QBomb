@@ -104,7 +104,7 @@ public class GameJFrame extends JFrame {
 
     public void init(){
         this.setSize(GAMEX,GAMEY);//设置窗体大小
-        this.setTitle("Q版泡泡堂-熊师意");
+        this.setTitle("Q版泡泡堂-TeddyBear-09");
         this.setResizable(false);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);//设置退出并且关闭
         this.setLocationRelativeTo(null);//设置居中
