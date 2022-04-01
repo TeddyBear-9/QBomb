@@ -23,7 +23,7 @@ public class GameHall extends JPanel implements Runnable{
     public static  ImageButton sendButton;
 
     private static JTextField[] userName = new JTextField[8];
-    private ImageIcon back = new ImageIcon("images/hall/hall_background.png");
+    private ImageIcon back = new ImageIcon("images/hall/hall_background.jpg");
 
     public static Music music;
 
