@@ -1,12 +1,12 @@
-package com.xsy.server;
+package com.teddy.server;
 
 
-import com.xsy.element.ElementObj;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
-import com.xsy.util.GameKey;
-import com.xsy.util.JDBC;
-import com.xsy.manager.Message;
+import com.teddy.element.ElementObj;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
+import com.teddy.util.GameKey;
+import com.teddy.util.JDBC;
+import com.teddy.manager.Message;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

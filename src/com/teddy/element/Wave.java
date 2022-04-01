@@ -1,7 +1,7 @@
-package com.xsy.element;
+package com.teddy.element;
 
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
 
 import javax.swing.*;
 import java.awt.*;

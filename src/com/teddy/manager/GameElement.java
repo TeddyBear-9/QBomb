@@ -1,4 +1,4 @@
-package com.xsy.manager;
+package com.teddy.manager;
 
 public enum GameElement {
     //BACK 背景图

@@ -1,19 +1,13 @@
-package com.xsy.show;
+package com.teddy.show;
 
-import com.xsy.component.Music;
-import com.xsy.component.ImageButton;
-import com.xsy.element.Bomb;
-import com.xsy.element.ElementObj;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
-import com.xsy.manager.Message;
+import com.teddy.component.Music;
+import com.teddy.component.ImageButton;
+import com.teddy.element.ElementObj;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 import java.net.Socket;
 import java.util.List;
 import java.util.Map;

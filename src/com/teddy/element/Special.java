@@ -1,10 +1,10 @@
-package com.xsy.element;
+package com.teddy.element;
 
-import com.xsy.component.Music;
-import com.xsy.controller.GameThread;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
-import com.xsy.show.GameJFrame;
+import com.teddy.component.Music;
+import com.teddy.controller.GameThread;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
+import com.teddy.show.GameJFrame;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package com.xsy.util;
+package com.teddy.util;
 
 public class GameKey {
     //在注册界面的状态

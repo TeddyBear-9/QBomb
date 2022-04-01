@@ -1,4 +1,4 @@
-package com.xsy.component;
+package com.teddy.component;
 
 import javax.sound.sampled.*;
 import java.io.File;

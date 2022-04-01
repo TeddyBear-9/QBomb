@@ -1,4 +1,4 @@
-package com.xsy.element;
+package com.teddy.element;
 
 import javax.swing.*;
 import java.awt.*;
