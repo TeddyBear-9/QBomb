@@ -1,10 +1,10 @@
-package com.xsy.show;
+package com.teddy.show;
 
-import com.xsy.component.Music;
-import com.xsy.component.ImageButton;
-import com.xsy.element.ElementObj;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
+import com.teddy.component.Music;
+import com.teddy.component.ImageButton;
+import com.teddy.element.ElementObj;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;

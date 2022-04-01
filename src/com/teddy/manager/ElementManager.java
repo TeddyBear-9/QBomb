@@ -1,10 +1,8 @@
-package com.xsy.manager;
+package com.teddy.manager;
 
-import com.xsy.component.ImageButton;
-import com.xsy.element.ElementObj;
-import com.xsy.show.GameHall;
+import com.teddy.component.ImageButton;
+import com.teddy.element.ElementObj;
 
-import javax.swing.*;
 import java.util.*;
 
 /**

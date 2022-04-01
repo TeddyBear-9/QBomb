@@ -1,4 +1,4 @@
-package com.xsy.manager;
+package com.teddy.manager;
 
 
 import java.io.Serializable;

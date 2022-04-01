@@ -1,9 +1,9 @@
- package com.xsy;
+ package com.teddy;
 
-import com.xsy.controller.GameListener;
-import com.xsy.controller.GameThread;
-import com.xsy.show.GameJFrame;
-import com.xsy.show.Login;
+import com.teddy.controller.GameListener;
+import com.teddy.controller.GameThread;
+import com.teddy.show.GameJFrame;
+import com.teddy.show.Login;
 
 public class Game {
     /**

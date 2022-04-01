@@ -1,14 +1,14 @@
-package com.xsy.controller;
+package com.teddy.controller;
 
-import com.xsy.util.GameKey;
-import com.xsy.component.Music;
-import com.xsy.element.*;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
-import com.xsy.manager.Message;
-import com.xsy.show.GameHall;
-import com.xsy.show.GameJFrame;
-import com.xsy.show.GameMain;
+import com.teddy.util.GameKey;
+import com.teddy.component.Music;
+import com.teddy.element.*;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
+import com.teddy.manager.Message;
+import com.teddy.show.GameHall;
+import com.teddy.show.GameJFrame;
+import com.teddy.show.GameMain;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

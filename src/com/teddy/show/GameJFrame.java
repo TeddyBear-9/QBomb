@@ -1,11 +1,10 @@
-package com.xsy.show;
+package com.teddy.show;
 
-import com.xsy.component.ImageButton;
-import com.xsy.controller.GameThread;
-import com.xsy.element.ElementObj;
-import com.xsy.manager.ElementManager;
-import com.xsy.manager.GameElement;
-import com.xsy.manager.Message;
+import com.teddy.controller.GameThread;
+import com.teddy.element.ElementObj;
+import com.teddy.manager.ElementManager;
+import com.teddy.manager.GameElement;
+import com.teddy.manager.Message;
 
 import javax.swing.*;
 import java.awt.event.KeyListener;
